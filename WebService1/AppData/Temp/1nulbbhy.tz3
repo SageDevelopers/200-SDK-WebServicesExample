@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<configSections>
+		<section name="cachingConfiguration" type="Microsoft.Practices.EnterpriseLibrary.Caching.Configuration.CacheManagerSettings, Microsoft.Practices.EnterpriseLibrary.Caching, Version=5.0.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+	</configSections>
+	<cachingConfiguration defaultCacheManager="Default Cache Manager">
+		<backingStores>
+			<add name="inMemory"
+				type="Microsoft.Practices.EnterpriseLibrary.Caching.BackingStoreImplementations.NullBackingStore, Microsoft.Practices.EnterpriseLibrary.Caching, Version=5.0.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+		</backingStores>
+		<cacheManagers>
+			<add name="Default Cache Manager"
+					 type="Microsoft.Practices.EnterpriseLibrary.Caching.CacheManager, Microsoft.Practices.EnterpriseLibrary.Caching, Version=5.0.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					 expirationPollFrequencyInSeconds="30"
+				maximumElementsInCacheBeforeScavenging="1000"
+				numberToRemoveWhenScavenging="10"
+				backingStoreName="inMemory" />
+			<add name="System"
+					 type="Microsoft.Practices.EnterpriseLibrary.Caching.CacheManager, Microsoft.Practices.EnterpriseLibrary.Caching, Version=5.0.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					 expirationPollFrequencyInSeconds="30"
+				maximumElementsInCacheBeforeScavenging="1000"
+				numberToRemoveWhenScavenging="10"
+				backingStoreName="inMemory" />
+			<add name="Companies"
+					 type="Microsoft.Practices.EnterpriseLibrary.Caching.CacheManager, Microsoft.Practices.EnterpriseLibrary.Caching, Version=5.0.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					 expirationPollFrequencyInSeconds="30"
+				maximumElementsInCacheBeforeScavenging="1000"
+				numberToRemoveWhenScavenging="10"
+				backingStoreName="inMemory" />
+      <add name="Sage.CredentialsProvider.Standard.CredentialsManager"
+					 type="Microsoft.Practices.EnterpriseLibrary.Caching.CacheManager, Microsoft.Practices.EnterpriseLibrary.Caching, Version=5.0.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					 expirationPollFrequencyInSeconds="30"
+				maximumElementsInCacheBeforeScavenging="1000"
+				numberToRemoveWhenScavenging="10"
+				backingStoreName="inMemory" />
+      <add name="Sage.Common.Credentials.Standard.SymmetricKeyFetch"
+					 type="Microsoft.Practices.EnterpriseLibrary.Caching.CacheManager, Microsoft.Practices.EnterpriseLibrary.Caching, Version=5.0.505.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					 expirationPollFrequencyInSeconds="30"
+				maximumElementsInCacheBeforeScavenging="1000"
+				numberToRemoveWhenScavenging="10"
+				backingStoreName="inMemory" />
+		</cacheManagers>
+	</cachingConfiguration>
+</configuration>

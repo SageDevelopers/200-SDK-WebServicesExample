@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Sage 200 Manufacturing" Guid="CC817DC8-F4E3-47d0-B175-8AAA0A000E0A" Version="20.0.23.0" Checksum="CPVFmSaCsSaQqBspyFGTk41yONE=" CreationDate="2018-10-09T01:45:00+01:00">
+  <Items>
+    <AddOnItem Name="Sage.Manufacturing.Legacy.DataModel.dll" Type="UniversalAssembly" />
+  </Items>
+  <RequiredAddOns />
+</AddOnInfo>

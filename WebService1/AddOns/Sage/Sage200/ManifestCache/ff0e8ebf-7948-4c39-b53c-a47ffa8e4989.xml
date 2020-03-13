@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Sage 200 Accounts Compiled Model" Guid="ff0e8ebf-7948-4c39-b53c-a47ffa8e4989" Version="1.0" Checksum="JZaiscCwG2NGv6wjfsHuEMeP3g8=" CreationDate="2018-10-10T10:26:18+01:00">
+  <Items>
+    <AddOnItem Name="Sage.Accounting.DataModel.dll" Type="UniversalAssembly" />
+  </Items>
+  <RequiredAddOns />
+</AddOnInfo>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Sage 200 Accounts" Guid="60a108e0-2cd7-11dd-bd0b-0800200c9a66" Version="20.0.23.0" Checksum="C3S6xdeYaPPv/+e2+hp2otRvV7k=" CreationDate="2018-10-09T01:24:16+01:00">
+  <Items>
+    <AddOnItem Name="Budget v Actuals.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Cash Book Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Customer Reverse Charge VAT Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Budget Overview.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Budgets.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Commitments.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Held Journals.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Outturn by Report Category.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Outturn.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Transactions Preview.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Waiting Postings.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="POP Requisitions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="VAT Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Assets and Liability Reporting.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Customer Archived Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Customer Batched Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Customer Transactions Preview.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Customer Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Customer Turnover By Period.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Customers.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Account Balances.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Accounts.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Nominal Archived Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Revenue and Cost Reporting.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Additional Product Group and Stock Details.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Allocations.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Alternatives.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Archived Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Average Cost History.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Batch Serial Tracked Allocations.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Items.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Levels.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Movements.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Period Values.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Standard Cost History.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Suppliers.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Traceable Transactions Archive.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Traceable Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Transactions (Profit only).xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Transactions (Transactions only).xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Transactions Preview.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stock Warehouses and Bins.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Stocktakes.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Supplier Archived Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Supplier Batched Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Supplier Suggested Payments.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Supplier Transactions Preview.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Supplier Transactions.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Supplier Turnover By Period.xlsx" Type="ExcelWorkbook" />
+    <AddOnItem Name="Suppliers.xlsx" Type="ExcelWorkbook" />
+  </Items>
+  <RequiredAddOns />
+</AddOnInfo>
